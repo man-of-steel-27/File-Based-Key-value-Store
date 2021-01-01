@@ -1,0 +1,14 @@
+{
+	"Student 1":{
+		"Firstname":"Vijay",
+		"Degree":"B.Tech",
+		"Skills":[
+			"Java",
+			"JavaScript",
+			"Python"
+		],
+		"Lastname":"Balaji",
+		"City":"Chennai",
+		"Age":"21"
+	}
+}
